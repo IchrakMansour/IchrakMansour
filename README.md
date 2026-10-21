@@ -55,16 +55,19 @@ I'm a **Full-Stack Software Engineer**. I turn product ideas into clean, respons
 ---
 
 ## 📦 Featured projects
-
+ 
 | Project | What it does | Stack |
 |---|---|---|
 | 🌐 **[Portfolio](https://ichrakportfolio.vercel.app)** | My personal portfolio, built as an interactive terminal: projects, experience, skills and contact | React · TypeScript · Vercel |
 | 📱 **[CXG App](https://apps.apple.com/tn/app/cxg-app/id1437501550)** | Customer-experience and coaching app for premium and luxury brands, live on the App Store | React Native · TypeScript |
-
+| 🛵 **[Coursa](https://github.com/IchrakMansour/coursa)** | Delivery-driver SaaS: public driver storefront, partner restaurants, live order tracking and driver location, web push alerts | Next.js · TypeScript · Supabase · Tailwind CSS |
+| 📚 **[BookStore](https://github.com/IchrakMansour/BookStore)** | Full-stack online bookstore with JWT authentication, book search, cart and order history, covered by unit tests | React · TypeScript · Spring Boot · Java |
+| 📊 **[sales-stats-cli](https://github.com/IchrakMansour/sales-stats-cli)** | Command-line tool that analyzes a sales CSV: revenue, average basket, top products, best customer, JSON export | Python · pytest |
+| ☁️ **[Diploi Notes Demo](https://github.com/IchrakMansour/diploi-notes-demo)** | Deployment demo on Diploi: React frontend and Node.js backend with a PostgreSQL add-on, built with Docker and GitHub Actions | React · Vite · TypeScript · Node.js · PostgreSQL · Docker |
+ 
 > 🔒 Most of my professional work is **confidential**, so it can't be shown in public repositories. I'm happy to walk through it, at a high level, in an interview.
-
+ 
 ---
-
 ## 🧭 What I bring to a team
 
 - ⚛️ **Web & mobile UIs**: Component-driven interfaces in React, React Native and TypeScript
